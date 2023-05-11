@@ -2,7 +2,7 @@
 
 I am a full stack developer with experience using a wide variety of technologies. I recieved my B.S. in Computer Science from Siena College in Loudonville, NY.
 
-Currently, I am learning more about cloud technologies and their applications, such as those offered through AWS.
+Currently, I am learning more about cloud technologies and their applications, such as those offered through AWS. I am also learning about web accessibility standards such as WCAG and ADA in order to make the projects that I work on more accessible to those with disabilities. 
 
 Feel free to contact me by email or LinkedIn: 
 
