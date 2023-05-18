@@ -1,10 +1,12 @@
 ### Hi I'm Daniel
 
-I am a full stack developer with experience using a wide variety of technologies. I recieved my B.S. in Computer Science from Siena College in Loudonville, NY.
+I am a full stack developer with experience using a wide variety of technologies. I recieved my B.S. in computer science from Siena College in Loudonville, NY.
 
 Currently, I am learning more about cloud technologies and their applications, such as those offered through AWS. I am also learning about web accessibility standards such as WCAG and ADA in order to make the projects that I work on more accessible to those with disabilities. 
 
-Feel free to contact me by email, LinkedIn or my site! [dangraham.dev](https://dangraham.dev): 
+Outside of working on programming projects, I enjoy playing a variety of competitive games such as Team Fight Tactics, Rocket League, and VALORANT.
+
+Feel free to contact me by email, LinkedIn, or my site! [dangraham.dev](https://dangraham.dev): 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d20grah@siena.edu) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgraham23/)
 
