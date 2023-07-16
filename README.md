@@ -1,8 +1,8 @@
 ### Hi I'm Daniel
 
-I am a full stack developer with experience using a wide variety of technologies. I recieved my B.S. in computer science from Siena College in Loudonville, NY.
+I am a software developer at Hexagon Asset Lifecycle Intelligence. I recieved my B.S. in computer science from Siena College in Loudonville, NY.
 
-Currently, I am learning more about cloud technologies and their applications, such as those offered through AWS. I am also learning about web accessibility standards such as WCAG and ADA in order to make the projects that I work on more accessible to those with disabilities. 
+Currently, I am learning more about cloud technologies and their applications, such as those offered through AWS and Azure. I am also learning about web accessibility standards such as WCAG and ADA in order to make the projects that I work on more accessible to those with disabilities. 
 
 Feel free to contact me by email, LinkedIn, or my site! [dangraham.dev](https://dangraham.dev): 
 
@@ -12,9 +12,9 @@ Feel free to contact me by email, LinkedIn, or my site! [dangraham.dev](https://
 
 Front end skills:
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
