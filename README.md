@@ -1,10 +1,10 @@
 ### Hi I'm Daniel
 
-I am a software developer at Hexagon Asset Lifecycle Intelligence. I recieved my B.S. in computer science from Siena College in Loudonville, NY.
+I am a software developer. I recieved my B.S. in computer science from Siena College in Loudonville, NY.
 
 Currently, I am learning more about cloud technologies and their applications, such as those offered through AWS and Azure. I am also learning about web accessibility standards such as WCAG and ADA in order to make the projects that I work on more accessible to those with disabilities. 
 
-Feel free to contact me by email, LinkedIn, or my site! [dangraham.dev](https://dangraham.dev): 
+Feel free to contact me by email, LinkedIn: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dangraham.dev) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgraham23/)
 
