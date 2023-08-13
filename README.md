@@ -1,6 +1,6 @@
 ### Hi I'm Daniel
 
-I am a software developer. I recieved my B.S. in computer science from Siena College in Loudonville, NY.
+I am a software developer at Hexagon Asset Lifecycle Intelligence. I recieved my B.S. in computer science from Siena College in Loudonville, NY.
 
 Currently, I am learning more about cloud technologies and their applications, such as those offered through AWS and Azure. I am also learning about web accessibility standards such as WCAG and ADA in order to make the projects that I work on more accessible to those with disabilities. 
 
