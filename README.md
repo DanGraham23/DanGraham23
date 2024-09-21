@@ -10,7 +10,7 @@ Feel free to contact me by email or LinkedIn:
 
 I enjoy solving puzzles, so here is a link to my leetcode profile:
 
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/DanielGraham/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/graphs/)
 
 Checkout my repositories to see some of my personal work! These are my strongest languages and frameworks:
 
